@@ -1,7 +1,7 @@
 ---
 layout: amir
 title: "Blog Archive"
-permalink: /archive/
+permalink: /amir/
 hide: true
 excluded: true
 icon: "fa-archive"
