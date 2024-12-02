@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: amir
 title: "Blog Archive"
 permalink: /archive/
 hide: true
